@@ -1,0 +1,55 @@
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  color: #adb5bd;
+}
+
+.nav-link:hover {
+  color: #fff;
+}
+
+.navbar-toggler-icon {
+  color: #fff;
+}
+
+.dropdown-menu {
+  background-color: #343a40;
+}
+
+.dropdown-item {
+  color: #adb5bd;
+}
+
+.dropdown-item:hover {
+  color: #fff;
+  background-color: #495057;
+}
+
+.badge {
+  background-color: #ff6f61;
+}
+
+.mt-100 {
+  margin-top: 0.5rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.navbar-nav-container {
+  margin-left:50%;
+ 
+}
+.setwidht{
+    margin-left: 10%;
+}
